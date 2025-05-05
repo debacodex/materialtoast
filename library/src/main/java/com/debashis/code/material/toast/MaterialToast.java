@@ -1,4 +1,4 @@
-package com.debashis.io.material.toast;
+package com.debashis.code.material.toast;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.debashis.io.material.R;
+import com.debashis.code.material.R;
 public class MaterialToast extends Toast {
 
     /*
