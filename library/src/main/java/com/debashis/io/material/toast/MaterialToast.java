@@ -8,7 +8,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 import com.debashis.io.material.R;
-public class DnToast extends Toast {
+public class MaterialToast extends Toast {
 
     /*
         Copyright 2021 
@@ -40,11 +40,11 @@ public class DnToast extends Toast {
     public static int NORMAL = 10;
 
 
-    public DnToast(Context context) {
+    public MaterialToast (Context context) {
         super(context);
     }
 
-    public static Toast dn(Context context, CharSequence message, int duration, int type, boolean icon) {
+    public static Toast DN(Context context, CharSequence message, int duration, int type, boolean icon) {
 
         Toast toast = new Toast(context);
         toast.setDuration(duration);
@@ -116,7 +116,7 @@ public class DnToast extends Toast {
         return toast;
     }
 
-    public static Toast dn(Context context, CharSequence message, int duration, int type) {
+    public static Toast DN(Context context, CharSequence message, int duration, int type) {
 
         Toast toast = new Toast(context);
         toast.setDuration(duration);
@@ -174,7 +174,7 @@ public class DnToast extends Toast {
     }
 
 
-    public static Toast dn(Context context, CharSequence message, int duration, int type, int img) {
+    public static Toast DN(Context context, CharSequence message, int duration, int type, int img) {
 
         Toast toast = new Toast(context);
         toast.setDuration(duration);
