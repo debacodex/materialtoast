@@ -50,7 +50,7 @@ public class MateToast extends Toast {
         toast.setDuration(duration);
 
 
-        View view = LayoutInflater.from(context).inflate(R.layout.dntoast_layout, null, false);
+        View view = LayoutInflater.from(context).inflate(R.layout.mate_toast_layout, null, false);
 
         TextView textView = view.findViewById(R.id.toast_text);
         ImageView imageView = view.findViewById(R.id.image_icon);
@@ -121,7 +121,7 @@ public class MateToast extends Toast {
         Toast toast = new Toast(context);
         toast.setDuration(duration);
 
-        View view = LayoutInflater.from(context).inflate(R.layout.dntoast_layout, null, false);
+        View view = LayoutInflater.from(context).inflate(R.layout.mate_toast_layout, null, false);
 
         TextView textView = view.findViewById(R.id.toast_text);
         ImageView imageView = view.findViewById(R.id.image_icon);
@@ -179,7 +179,7 @@ public class MateToast extends Toast {
         Toast toast = new Toast(context);
         toast.setDuration(duration);
 
-        View view = LayoutInflater.from(context).inflate(R.layout.dntoast_layout, null, false);
+        View view = LayoutInflater.from(context).inflate(R.layout.mate_toast_layout, null, false);
 
         TextView textView = view.findViewById(R.id.toast_text);
         ImageView imageView = view.findViewById(R.id.image_icon);
