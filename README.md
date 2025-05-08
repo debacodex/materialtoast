@@ -2,9 +2,7 @@
 
 
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
- [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21) [![JitPack](https://img.shields.io/jitpack/v/github/ahmmedrejowan/MateToast)](https://jitpack.io/#ahmmedrejowan/MateToast) [![GitHub license](https://img.shields.io/github/license/ahmmedrejowan/MateToast)](https://github.com/ahmmedrejowan/MateToast/blob/master/LICENSE)  
- 
-[![GitHub forks](https://img.shields.io/github/forks/ahmmedrejowan/MateToast)](https://github.com/ahmmedrejowan/MateToast/network) [![GitHub issues](https://img.shields.io/github/issues/ahmmedrejowan/MateToast)](https://github.com/ahmmedrejowan/MateToast/issues) [![GitHub stars](https://img.shields.io/github/stars/ahmmedrejowan/MateToast)](https://github.com/ahmmedrejowan/MateToast/stargazers) [![GitHub contributors](https://img.shields.io/github/contributors/ahmmedrejowan/MateToast)](https://github.com/ahmmedrejowan/MateToast/graphs/contributors)
+ [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21) 
 
 ![MateToast](https://user-images.githubusercontent.com/42619122/117730837-d9e6cd00-b20e-11eb-94fb-3bd3582d4800.png)
 
@@ -39,18 +37,6 @@ allprojects {
 		...
 		maven { url "https://jitpack.io" }
 	}
-}
-```
-<br/>
-
-## Dependencies
-
-Add this to your module's `build.gradle` file (make sure the version matches the JitPack badge above):
-
-```gradle
-dependencies {
-	...
-	implementation 'com.github.debacodex.matetoast:matetoast:1.0.0'
 }
 ```
 <br/>
