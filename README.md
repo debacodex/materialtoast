@@ -166,35 +166,16 @@ and same for the other types too.
 	- If 'icon' is added by using `R.drawabale.icon_name` , then custom icon will be shown.
 * If you use the Custom Dependency (`implementation 'com.github.ahmmedrejowan.MateToast:MateToast-Custom:1.1`) then you can't use the pre-built icons.
 
-
-
 <br/>
-
-
-## Contribute
-
-Please fork this repository and contribute back using [pull requests](https://github.com/ahmmedrejowan/MateToast/pulls).
-
-Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
-but will be thoroughly reviewed .
-
-Let me know which features you want in the future in `Request Feature` tab. 
-
-If this project helps you a little bit, then give a to Star ⭐ the Repo. 
-
-<br/>
-
 
 ## Credits
 
-Created with Love by **K M Rejowan Ahmmed** (@ahmmedrejowan)
+Created with Love by **Debashis Sabar**
 
 Reach me @
-* [Github](https://github.com/ahmmedrejowan) 
-* [LinkedIn](https://www.linkedin.com/in/ahmmedrejowan)
-* [Twitter](https://twitter.com/ahmmedrejowan)
-* [Facebook](https://facebook.com/ahmmedrejowan)
-* [StackOverFlow](https://stackoverflow.com/users/9932194/k-m-rejowan-ahmmed)
+* [Instagram](https://Instagram.com/mr_deba_000) 
+* [Facebook](https://facebook.com/mr.deba.000)
+
 
 
 
